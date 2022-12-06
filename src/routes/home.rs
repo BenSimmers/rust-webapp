@@ -13,6 +13,7 @@ pub fn home() -> Html {
     let ondecrease = {
         let counter = counter.clone();
         Callback::from(move |_| counter.decrease())
+
     };
 
     html! {
