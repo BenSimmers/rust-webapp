@@ -11,6 +11,10 @@ pub mod name;
 use name::Name;
 
 
+pub mod api;
+use api::data;
+
+
 /// App routes
 #[derive(Routable, Debug, Clone, PartialEq, Eq)]
 pub enum AppRoute {
