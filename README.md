@@ -1,6 +1,4 @@
-# My Awesome Yew App
-
-This is the official base template for [Create Yew App](https://github.com/jetli/create-yew-app).
+# Rust Yew Web App
 
 ## How to install
 
@@ -22,7 +20,7 @@ npm start
 npm run build
 ```
 
-## How to run unit tests
+## How to run unit tests - coming soon
 
 ```sh
 # Runs tests
