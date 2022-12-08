@@ -22,7 +22,6 @@ pub fn name(props: &Props) -> Html {
         log!(value);
     });
 
-
     let value = props.name.clone();
 
     html! {
