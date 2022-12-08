@@ -1,7 +1,7 @@
-# My Awesome Yew App
-
-This is the official base template for [Create Yew App](https://github.com/jetli/create-yew-app).
-
+# Rust Yew Web App
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 ## How to install
 
 ```sh
@@ -22,7 +22,7 @@ npm start
 npm run build
 ```
 
-## How to run unit tests
+## How to run unit tests - coming soon
 
 ```sh
 # Runs tests
